@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SahayaGladwinJS-Portfolio/static/css/main.59873b84.css",
+    "main.js": "/SahayaGladwinJS-Portfolio/static/js/main.22e0542d.js",
+    "static/media/Sahaya Profile.jpg": "/SahayaGladwinJS-Portfolio/static/media/Sahaya Profile.a4c4f11361902d702c68.jpg",
+    "static/media/Netflix.png": "/SahayaGladwinJS-Portfolio/static/media/Netflix.a20baa64c79490b81613.png",
+    "static/media/Insta.png": "/SahayaGladwinJS-Portfolio/static/media/Insta.96d478247a7360ba22e0.png",
+    "static/media/resume.jpg": "/SahayaGladwinJS-Portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/easy-bills.avif": "/SahayaGladwinJS-Portfolio/static/media/easy-bills.9af5498edfa1be821e10.avif",
+    "static/media/Data.avif": "/SahayaGladwinJS-Portfolio/static/media/Data.011699225db0cc23ffcf.avif",
+    "index.html": "/SahayaGladwinJS-Portfolio/index.html",
+    "main.59873b84.css.map": "/SahayaGladwinJS-Portfolio/static/css/main.59873b84.css.map",
+    "main.22e0542d.js.map": "/SahayaGladwinJS-Portfolio/static/js/main.22e0542d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59873b84.css",
+    "static/js/main.22e0542d.js"
+  ]
+}
