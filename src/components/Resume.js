@@ -5,7 +5,7 @@ import ResumeImg from '../assets/resume.jpg';
 
 export default function Resume() {
   const config = {
-    link: '/SAHAYA GLADWIN JS Resume.docx',
+    link: 'build\SAHAYA GLADWIN JS Resume.docx',
   };
 
   // Intersection Observer hook
